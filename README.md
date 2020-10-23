@@ -1,33 +1,9 @@
-# demo
 
+# ssr项目服务端  egg.js
 
+# 运行方法
+- yarn
+- npm run dev 开启7001端口
+- ssr 前端项目 npm run dev 开启8000端口
+- 浏览器运行localhost:7001/
 
-## QuickStart
-
-<!-- add docs here for user -->
-
-see [egg docs][egg] for more detail.
-
-### Development
-
-```bash
-$ npm i
-$ npm run dev
-$ open http://localhost:7001/
-```
-
-### Deploy
-
-```bash
-$ npm start
-$ npm stop
-```
-
-### npm scripts
-
-- Use `npm run lint` to check code style.
-- Use `npm test` to run unit test.
-- Use `npm run autod` to auto detect dependencies upgrade, see [autod](https://www.npmjs.com/package/autod) for more detail.
-
-
-[egg]: https://eggjs.org
